@@ -1,1 +1,11 @@
 Note-taking while reading.
+
+To read:
+https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/
+
+N-grams:
+Unigram - [Let] [me] [explain] [with] [an] [example.]
+Bigram [let me] [me explain] [explain with] [with an] [an example]
+Trigram [let me explain] [me explain with] [explain with an] [with an example]
+
+Picking N small -> possibly very incoherent, N large -> overfitting
