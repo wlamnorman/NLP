@@ -1,7 +1,8 @@
 Note-taking while reading.
 
 To read:
-https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/
+https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/ <- Try to implement similar model to begin with?
+Book on the subject by the same author: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj19uCH1vP6AhU3QvEDHQnbA8sQFnoECBkQAQ&url=https%3A%2F%2Foku.ozturkibrahim.com%2Fdocs_python%2FDeep_Learning_for_Natural_Language_Processing.pdf&usg=AOvVaw3kN7Wl-cmLg5sHMNXKzz_X
 
 N-grams:
 Unigram - [Let] [me] [explain] [with] [an] [example.]
