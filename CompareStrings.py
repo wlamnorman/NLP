@@ -26,7 +26,7 @@ def lev_d(str_1,str_2,sub_cost,move_cost):
 			# the "memoization" part
 			M[j][i] = min(M[j-1][i] + move_cost, M[j][i-1] + move_cost, M[j-1][i-1] + sub_mod*sub_cost)
 
-	return (2*M[l_2 - 1][l_1 - 1]/(l_2 + l_1))
+	return (M[l_2 - 1][l_1 - 1])
 
 # an example
 print(lev_d("Jag heter Benjamin!", "Jag heter Benjamin!",2,1))
