@@ -8,4 +8,7 @@ Done:
 
 
 To-Do:
-- Lemmatization and stemming, could we create a one-way transformation from one to the other?
+- Lemmatization and stemming
+
+Potential project:
+- Can we create a one-way transformation from one to the other? should be possible to for the less strict to the stricter using Levenshtein distance.
