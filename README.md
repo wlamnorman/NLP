@@ -7,8 +7,6 @@ Done:
 - Created word dictionary / corpus from book data
 
 
-To-Do:
-- Lemmatization and stemming
 
 Potential project:
 - Can we create a one-way transformation from one to the other? should be possible to for the less strict to the stricter using Levenshtein distance.
